@@ -1,0 +1,151 @@
+transaction_id,date,category_id,category_name,transaction_type,merchant,payment_method,amount,is_recurring,notes
+tx_001a1,2025-11-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_002a2,2025-11-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_003a3,2025-11-03,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,68.40,0,Weekly grocery restock
+tx_004a4,2025-11-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_005a5,2025-11-07,cat_transportation,Transportation,expense,Shell Gas Station,Credit Card,48.20,0,Fuel tank fill-up
+tx_006a6,2025-11-10,cat_food_dining,Food & Dining,expense,Chipotle Mexican Grill,Debit Card,16.85,0,Lunch on the go
+tx_007a7,2025-11-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_008a8,2025-11-15,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,750.00,0,Contract analytics consultation retainer
+tx_009a9,2025-11-16,cat_shopping,Shopping,expense,AMZN Mktp US*9281A,Credit Card,84.50,0,Home essentials order
+tx_010b1,2025-11-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_011b2,2025-11-20,cat_food_dining,Food & Dining,expense,Whole Foods Market,Credit Card,112.30,0,Gourmet weekend groceries
+tx_012b3,2025-11-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_013b4,2025-11-25,cat_healthcare,Healthcare,expense,CVS Pharmacy #3821,Credit Card,34.50,0,Prescriptions and vitamins
+tx_014b5,2025-11-28,cat_shopping,Shopping,expense,Best Buy Electronics,Credit Card,1249.99,0,ANOMALY: High-ticket workstation tech hardware purchase
+tx_015b6,2025-11-29,cat_food_dining,Food & Dining,expense,Sweetgreen NYC,Debit Card,18.75,0,Salad takeout
+tx_016b7,2025-12-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_017b8,2025-12-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_018b9,2025-12-04,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,74.10,0,Weekly groceries
+tx_019c1,2025-12-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_020c2,2025-12-08,cat_transportation,Transportation,expense,Uber *Trip Ride,Credit Card,28.50,0,Ride to airport
+tx_021c3,2025-12-11,cat_travel,Travel,expense,Delta Air Lines 006,Credit Card,1420.00,0,ANOMALY: International multi-city conference flight booking
+tx_022c4,2025-12-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_023c5,2025-12-14,cat_shopping,Shopping,expense,Target Stores #1204,Credit Card,142.30,0,Holiday gift shopping
+tx_024c6,2025-12-16,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,920.00,0,BI dashboard design contract milestone
+tx_025c7,2025-12-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_026c8,2025-12-20,cat_food_dining,Food & Dining,expense,Local Artisan Bakery,Debit Card,32.00,0,Holiday dinner pastry platter
+tx_027c9,2025-12-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_028d1,2025-12-24,cat_food_dining,Food & Dining,expense,Whole Foods Market,Credit Card,165.80,0,Christmas dinner ingredients
+tx_029d2,2025-12-28,cat_entertainment,Entertainment,expense,Steam Video Games,Credit Card,59.99,0,Winter game bundle sale
+tx_030d3,2026-01-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_031d4,2026-01-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_032d5,2026-01-03,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,61.20,0,Pantry restock
+tx_033d6,2026-01-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_034d7,2026-01-07,cat_education,Education,expense,Coursera Inc Online,Credit Card,49.00,0,Professional Data Engineering certificate
+tx_035d8,2026-01-09,cat_transportation,Transportation,expense,Chevron 82910,Credit Card,45.00,0,Fuel refill
+tx_036d9,2026-01-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_037e1,2026-01-15,cat_food_dining,Food & Dining,expense,Chipotle Mexican Grill,Debit Card,15.40,0,Lunch
+tx_038e2,2026-01-17,cat_shopping,Shopping,expense,AMZN Mktp US*9281A,Credit Card,52.80,0,Desk organizer & cables
+tx_039e3,2026-01-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_040e4,2026-01-20,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,600.00,0,Python ETL automation script
+tx_041e5,2026-01-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_042e6,2026-01-25,cat_healthcare,Healthcare,expense,Quest Diagnostics Lab,Credit Card,120.00,0,Annual preventative wellness panel
+tx_043e7,2026-01-28,cat_food_dining,Food & Dining,expense,Whole Foods Market,Credit Card,98.60,0,Weekend grocery restock
+tx_044e8,2026-02-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_045e9,2026-02-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_046f1,2026-02-03,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,65.30,0,Weekly groceries
+tx_047f2,2026-02-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_048f3,2026-02-08,cat_transportation,Transportation,expense,Shell Gas Station,Credit Card,50.10,0,Fuel refill
+tx_049f4,2026-02-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_050f5,2026-02-14,cat_food_dining,Food & Dining,expense,Sweetgreen NYC,Credit Card,24.50,0,Valentine's week lunch
+tx_051f6,2026-02-16,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,850.00,0,SQL data warehouse consulting
+tx_052f7,2026-02-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_053f8,2026-02-21,cat_shopping,Shopping,expense,Zara Fashion Group,Credit Card,118.00,0,Spring wardrobe refresh
+tx_054f9,2026-02-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_055g1,2026-02-26,cat_healthcare,Healthcare,expense,City Urgent Care Clinic,Credit Card,850.00,0,ANOMALY: Urgent care evaluation and sprain x-ray
+tx_056g2,2026-03-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_057g3,2026-03-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_058g4,2026-03-04,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,72.40,0,Groceries
+tx_059g5,2026-03-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_060g6,2026-03-09,cat_transportation,Transportation,expense,Metropolitan Transit Metro,Debit Card,34.00,0,Metro card refill
+tx_061g7,2026-03-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_062g8,2026-03-15,cat_food_dining,Food & Dining,expense,Chipotle Mexican Grill,Debit Card,16.20,0,Lunch
+tx_063g9,2026-03-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_064h1,2026-03-20,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,500.00,0,Tableau visualization dashboard
+tx_065h2,2026-03-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_066h3,2026-03-25,cat_shopping,Shopping,expense,AMZN Mktp US*9281A,Credit Card,45.20,0,Kitchen supplies
+tx_067h4,2026-03-29,cat_food_dining,Food & Dining,expense,Whole Foods Market,Credit Card,105.40,0,Organic grocery items
+tx_068h5,2026-04-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_069h6,2026-04-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_070h7,2026-04-03,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,68.90,0,Groceries
+tx_071h8,2026-04-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_072h9,2026-04-08,cat_transportation,Transportation,expense,Chevron 82910,Credit Card,48.00,0,Gasoline
+tx_073i1,2026-04-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_074i2,2026-04-16,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,1100.00,0,End-to-end data pipeline retainer
+tx_075i3,2026-04-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_076i4,2026-04-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_077i5,2026-04-24,cat_education,Education,expense,Udemy Academy Course,Credit Card,18.99,0,Advanced Time Series Forecasting Course
+tx_078i6,2026-04-27,cat_food_dining,Food & Dining,expense,Whole Foods Market,Credit Card,92.15,0,Weekly groceries
+tx_079i7,2026-05-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_080i8,2026-05-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_081i9,2026-05-04,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,71.20,0,Groceries
+tx_082j1,2026-05-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_083j2,2026-05-09,cat_transportation,Transportation,expense,Uber *Trip Ride,Credit Card,31.40,0,Rideshare to downtown
+tx_084j3,2026-05-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_085j4,2026-05-15,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,650.00,0,Data cleaning & validation project
+tx_086j5,2026-05-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_087j6,2026-05-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_088j7,2026-05-25,cat_travel,Travel,expense,Marriott Hotels & Resorts,Credit Card,385.00,0,Memorial Day weekend trip accommodation
+tx_089j8,2026-05-28,cat_food_dining,Food & Dining,expense,Whole Foods Market,Credit Card,89.50,0,Groceries
+tx_090j9,2026-06-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_091k1,2026-06-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_092k2,2026-06-03,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,64.80,0,Pantry restock
+tx_093k3,2026-06-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_094k4,2026-06-08,cat_transportation,Transportation,expense,Shell Gas Station,Credit Card,52.40,0,Gas refill
+tx_095k5,2026-06-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_096k6,2026-06-15,cat_shopping,Shopping,expense,Apple Store Retail,Credit Card,199.00,0,AirPods Pro replacement
+tx_097k7,2026-06-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_098k8,2026-06-20,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,950.00,0,Statistical model development
+tx_099k9,2026-06-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_100l1,2026-06-27,cat_food_dining,Food & Dining,expense,Sweetgreen NYC,Debit Card,19.50,0,Lunch
+tx_101l2,2026-07-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_102l3,2026-07-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_103l4,2026-07-04,cat_food_dining,Food & Dining,expense,Whole Foods Market,Credit Card,134.20,0,4th of July BBQ supplies
+tx_104l5,2026-07-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_105l6,2026-07-09,cat_transportation,Transportation,expense,Chevron 82910,Credit Card,49.20,0,Fuel refill
+tx_106l7,2026-07-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_107l8,2026-07-16,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,780.00,0,Financial cohort analysis
+tx_108l9,2026-07-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_109m1,2026-07-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_110m2,2026-07-26,cat_shopping,Shopping,expense,AMZN Mktp US*9281A,Credit Card,67.30,0,Home gardening tools
+tx_111m3,2026-08-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_112m4,2026-08-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_113m5,2026-08-04,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,70.50,0,Groceries
+tx_114m6,2026-08-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_115m7,2026-08-10,cat_transportation,Transportation,expense,Shell Gas Station,Credit Card,51.00,0,Gas refill
+tx_116m8,2026-08-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_117m9,2026-08-15,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,1250.00,0,Data pipeline migration
+tx_118n1,2026-08-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_119n2,2026-08-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_120n3,2026-08-27,cat_food_dining,Food & Dining,expense,Whole Foods Market,Credit Card,95.60,0,Groceries
+tx_121n4,2026-09-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_122n5,2026-09-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_123n6,2026-09-03,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,67.80,0,Groceries
+tx_124n7,2026-09-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_125n8,2026-09-08,cat_transportation,Transportation,expense,Chevron 82910,Credit Card,47.50,0,Fuel refill
+tx_126n9,2026-09-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_127o1,2026-09-15,cat_food_dining,Food & Dining,expense,Chipotle Mexican Grill,Debit Card,16.50,0,Lunch
+tx_128o2,2026-09-17,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,600.00,0,Statistical regression modeling
+tx_129o3,2026-09-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_130o4,2026-09-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_131o5,2026-09-26,cat_shopping,Shopping,expense,AMZN Mktp US*9281A,Credit Card,58.20,0,Supplies
+tx_132o6,2026-10-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_133o7,2026-10-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_134o8,2026-10-03,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,73.40,0,Groceries
+tx_135o9,2026-10-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_136p1,2026-10-08,cat_transportation,Transportation,expense,Shell Gas Station,Credit Card,49.80,0,Gas refill
+tx_137p2,2026-10-12,cat_entertainment,Entertainment,expense,Netflix.com SaaS,Credit Card,19.99,1,Recurring monthly subscription: Netflix
+tx_138p3,2026-10-15,cat_shopping,Shopping,expense,Apple Store Retail,Credit Card,1899.00,0,ANOMALY: High-ticket MacBook workstation upgrade
+tx_139p4,2026-10-16,cat_freelance,Freelance & Side Gig,income,Upwork / Client Escrow,Bank Transfer,900.00,0,Executive reporting dashboard retainer
+tx_140p5,2026-10-18,cat_utilities_bills,Utilities & Bills,expense,AT&T Mobility Wireless,Debit Card,85.00,1,Mobile cellular monthly bill
+tx_141p6,2026-10-22,cat_utilities_bills,Utilities & Bills,expense,Spectrum Internet Fiber,Credit Card,69.99,1,High-speed broadband bill
+tx_142p7,2026-10-25,cat_food_dining,Food & Dining,expense,Whole Foods Market,Credit Card,118.20,0,Groceries & dinner
+tx_143p8,2026-10-28,cat_healthcare,Healthcare,expense,CVS Pharmacy #3821,Credit Card,42.10,0,Health supplies
+tx_144p9,2026-11-01,cat_salary,Salary,income,TechCorp Payroll Direct Dep,Bank Transfer,4200.00,1,Monthly Base Salary Direct Deposit
+tx_145q1,2026-11-01,cat_housing_rent,Housing & Rent,expense,Equity Residential Lease,Bank Transfer,1450.00,1,Apartment monthly lease payment
+tx_146q2,2026-11-03,cat_food_dining,Food & Dining,expense,Trader Joe's #412,Credit Card,69.50,0,Groceries
+tx_147q3,2026-11-05,cat_entertainment,Entertainment,expense,Spotify Premium Music,Credit Card,11.99,1,Recurring monthly subscription: Spotify
+tx_148q4,2026-11-07,cat_transportation,Transportation,expense,Chevron 82910,Credit Card,51.20,0,Fuel refill
+tx_149q5,2026-11-09,cat_food_dining,Food & Dining,expense,Sweetgreen NYC,Debit Card,18.90,0,Lunch
+tx_150q6,2026-11-10,cat_shopping,Shopping,expense,AMZN Mktp US*9281A,Credit Card,76.40,0,Books and home goods
